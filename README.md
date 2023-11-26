@@ -1,4 +1,4 @@
-you might be looking for @JasperVanDenBosch
+you might be looking for [@JasperVanDenBosch](github.com/jaspervandenbosch)
 
 <!---
 ilogue/ilogue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
